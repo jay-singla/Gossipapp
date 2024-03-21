@@ -42,8 +42,14 @@ function appendMessage(msg, type) {
 
 // Recieve messages 
 socket.on('message', (msg) => {
-    appendMessage(msg, 'incoming')
+    if(msg.user!=name){
+        appendMessage(msg, 'incoming')
     scrollToBottom()
+    }
+    else{
+        alert("Please enter a different user name")
+    }
+    
 })
 
 function scrollToBottom() {
