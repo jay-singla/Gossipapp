@@ -1,4 +1,4 @@
-### Gossip
+<h1>Gossip</h1> 
 
 <h3>Gossip is a real-time chat application built using Socket.io and Node.js, allowing users to interact with each other seamlessly.</h3>
 <h2>Live</h2> 
