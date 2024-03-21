@@ -1,7 +1,8 @@
 <h1>Gossip</h1> 
 
 <h3>Gossip is a real-time chat application built using Socket.io and Node.js, allowing users to interact with each other seamlessly.</h3>
-<h2>Live</h2> 
+<h2>Working</h2> 
+https://github.com/jay-singla/Gossipapp/assets/123372494/25090d71-38b9-43a7-a123-485652c4718c
 
 <h2>Tech Stack</h2>
 - JavaScript
